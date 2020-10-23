@@ -1,10 +1,10 @@
-# Package Control Website
+# IMPROVED PACKAGE CONTROL WEBSITES
 
 The Package Control website serves as both the main aggregator of package
 information for Package Control and as a web interface for users to discover
 packages.
 
-## Overview
+## ACKNOWLEDGEMENT 
 
 The Package Control website runs on an architecture of:
 
